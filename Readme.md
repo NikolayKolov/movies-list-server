@@ -1,9 +1,9 @@
-# Movies Node.js Backend
+# Movies list Node.js Backend for a React frontend
 
 # Pre-requisites
 - Install [Node.js](https://nodejs.org/en/) version 20.0.0+
 
-# Getting started
+## Getting started
 - Clone the repository
 ```
 git clone https://github.com/NikolayKolov/movies-list-server
